@@ -2,7 +2,9 @@
 
 ### A passionate Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiennt220805&label=Profile views&color=0e75b6&style=flat" alt="tiennt220805" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tiennt220805&label=Profile%20views&color=0e75b6&style=flat" alt="tiennt220805" />
+</p>
 
 - 🌱 I'm currently learning **CI/CD pipelines with Jenkins, Android App**
 
