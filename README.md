@@ -12,7 +12,7 @@
 
 - 🤝 I'm looking for help with **Optimizing Microservices performance and mastering advanced Java software architecture to build robust, production-ready systems**
 
-- 💬 Ask me about **ava 17, Spring Boot, Microservices, and Full-stack Engineering**
+- 💬 Ask me about **Java 17, Spring Boot, Microservices, and Full-stack Engineering**
 
 - 📫 How to reach me **tiennt220805@gmail.com**
 
